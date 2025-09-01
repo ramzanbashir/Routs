@@ -1,0 +1,46 @@
+/* Global background */
+body {
+  background-color: #f7fbfc;
+  color: #34495e;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar links */
+.nav-link {
+  color: #34495e !important;
+  transition: 0.3s ease;
+}
+.nav-link:hover {
+  color: #2c3e50 !important;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #a3d2ca !important;
+  border-color: #a3d2ca !important;
+  color: #34495e !important;
+}
+.btn-primary:hover {
+  background-color: #93c5bd !important;
+  border-color: #93c5bd !important;
+}
+
+/* Card styling */
+.card {
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(163, 210, 202, 0.2);
+}
+.card-title {
+  color: #34495e;
+}
+
+/* Footer */
+footer {
+  background: linear-gradient(90deg, #d7f3f9, #e4f9f5);
+  padding: 20px;
+  text-align: center;
+  font-weight: 500;
+  color: #34495e;
+}
